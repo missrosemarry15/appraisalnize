@@ -34,7 +34,7 @@ const navigate = useNavigate()
             <div className="row">
               <div className="column">
                 <span className="circle"></span>
-                <span className="text">Powelltattoos</span>
+                <span className="text">Asics</span>
               </div>
               <span className="percent">36%</span>
             </div>
